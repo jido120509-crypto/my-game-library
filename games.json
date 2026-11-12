@@ -1,0 +1,17 @@
+{
+  "games": [
+    {
+      "id": "quark-to-universe",
+      "title": "Quark to Universe",
+      "description": "쿼크에서 시작해 원자, 항성, 행성을 거쳐 은하를 만드는 인크리멘탈 게임.",
+      "image": "assets/quark-to-universe.svg",
+      "version": "개발 중",
+      "updated": "2026-11-12",
+      "status": "개발 중",
+      "platforms": ["windows", "web"],
+      "playUrl": "",
+      "downloadUrl": "",
+      "notes": "웹 빌드를 올린 후 playUrl에 실행 페이지 주소를 입력하세요. Windows 빌드 다운로드 주소는 downloadUrl에 입력하세요."
+    }
+  ]
+}
